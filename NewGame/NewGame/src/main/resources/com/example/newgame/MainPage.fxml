@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="mainRoot" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.newgame.MainPageController">
+   <children>
+      <ImageView fx:id="backgroundImage" fitHeight="600.0" fitWidth="900.0" layoutY="-4.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Images/Background1.png" />
+         </image>
+      </ImageView>
+      <Circle fx:id="playButtonCircle" fill="#eb3600" layoutX="400.0" layoutY="231.0" onMouseClicked="#playButtonClicked" radius="58.0" stroke="#eb3600" strokeType="INSIDE" />
+      <Label fx:id="playButtonLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="352.0" layoutY="196.0" onMouseClicked="#playButtonClicked" prefHeight="65.0" prefWidth="96.0" style="-fx-font-weight: bold;" text="Play" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="BrandonGrotesque-Black" size="48.0" />
+         </font>
+      </Label>
+      <Label fx:id="stickHeroLabel" layoutX="230.0" layoutY="34.0" prefHeight="116.0" prefWidth="423.0" style="-fx-font-weight: bold;" text="Stick Hero" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="BrandonGrotesque-Black" size="74.0" />
+         </font>
+      </Label>
+      <Rectangle fx:id="currentPillar" arcHeight="5.0" arcWidth="5.0" height="116.0" layoutX="300.0" layoutY="386.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+      <ImageView fx:id="heroCharacter" fitHeight="188.0" fitWidth="234.0" layoutX="327.0" layoutY="292.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Images/HeroSprite1.png" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>

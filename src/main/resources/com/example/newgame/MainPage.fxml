@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+
+<Pane fx:id="mainRoot" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.newgame.MainPageController">
+   <children>
+      <ImageView fx:id="backgroundImage" fitHeight="605.0" fitWidth="806.0" layoutX="-5.0" layoutY="-4.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Images/Background1.png" />
+         </image>
+      </ImageView>
+      <Rectangle fx:id="currentPillar" arcHeight="5.0" arcWidth="5.0" height="116.0" layoutX="300.0" layoutY="386.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+      <ImageView fx:id="heroCharacter" fitHeight="65.0" fitWidth="66.0" layoutX="355.0" layoutY="321.0" onMouseMoved="#makeHeroJump" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Images/HeroSprite1.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="TitlePNG" fitHeight="211.0" fitWidth="520.0" layoutX="140.0" layoutY="37.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Images/TitlePNG.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="PlayButtonPNG" fitHeight="116.0" fitWidth="116.0" layoutX="344.0" layoutY="166.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Images/PlayButtonPNG.png" />
+         </image>
+      </ImageView>
+      <Circle fx:id="playButtonCircle" fill="#eb330000" layoutX="400.0" layoutY="224.0" onMouseClicked="#playButtonClicked" radius="58.0" stroke="#eb330000" strokeType="INSIDE" />
+   </children>
+</Pane>
