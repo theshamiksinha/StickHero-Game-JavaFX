@@ -16,14 +16,27 @@ Welcome to Stick Hero, an exciting platformer game where you control Stick-Hero,
 
 ### Images
 
-Insert screenshots or gameplay images here to visually represent the game's interface and action.
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
 <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage1.png" alt="Gameplay Image 1" width="400">
 <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage2.png" alt="Gameplay Image 2" width="400">
+
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
 <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage3.png" alt="Gameplay Image 3" width="400">
 <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage4.png" alt="Gameplay Image 4" width="400">
+
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
 <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage5.png" alt="Gameplay Image 5" width="400">
 <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage6.png" alt="Gameplay Image 6" width="400">
+
+</div>
+
 
 ### Video
 
