@@ -1,8 +1,9 @@
 # Stick Hero Game
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/StickHeroCharacter.png" alt="StickHero Logo" width="200"/>
-  <span style="font-size: 3em; font-weight: bold; margin-left: 20px;">STICK HERO</span>
+  <span style="font-size: 3em; font-weight: bold; margin-left: 200px;">STICK HERO</span>
 </div>
+
 ## Introduction
 
 Welcome to Stick Hero, an engaging game inspired by the classic Stick Hero, implemented using JavaFX and object-oriented programming (OOP) concepts. This project is developed as part of the Advanced Programming course at IIIT Delhi, aiming to emulate the core mechanics of Stick Hero while introducing creative elements.
