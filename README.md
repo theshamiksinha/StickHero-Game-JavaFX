@@ -42,7 +42,7 @@ Welcome to Stick Hero, an exciting platformer game where you control Stick-Hero,
 
 Watch a gameplay video to see Stick Hero in action:
 
-[![Gameplay Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=5iBd60uciAk)
+[![Gameplay Video](https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/PlayButtonPNG.png)](https://www.youtube.com/watch?v=5iBd60uciAk)
 
 
 ## Game Mechanics
