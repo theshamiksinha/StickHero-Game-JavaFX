@@ -18,12 +18,12 @@ Welcome to Stick Hero, an exciting platformer game where you control Stick-Hero,
 
 Insert screenshots or gameplay images here to visually represent the game's interface and action.
 
-![Gameplay Image 1](https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage1.png)
-![Gameplay Image 2](https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage2.png)
-![Gameplay Image 3](https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage3.png)
-![Gameplay Image 4](https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage4.png)
-![Gameplay Image 5](https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage5.png)
-![Gameplay Image 6](https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage6.png)
+<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage1.png" alt="Gameplay Image 1" width="400">
+<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage2.png" alt="Gameplay Image 2" width="400">
+<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage3.png" alt="Gameplay Image 3" width="400">
+<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage4.png" alt="Gameplay Image 4" width="400">
+<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage5.png" alt="Gameplay Image 5" width="400">
+<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage6.png" alt="Gameplay Image 6" width="400">
 
 ### Video
 
