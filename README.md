@@ -32,13 +32,35 @@ Stick Hero is a platformer where you control Stick-Hero, navigating between pill
    
 - **Objective:** Collect cherries, bridge gaps between platforms, and avoid falling to achieve the highest score.
 
-### Getting Started
+## How to Download and Play
 
-To start playing Stick Hero:
+To download and play Stick Hero, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Open the project in your preferred Java development environment.
-3. Compile and run the `Main` class to launch the game.
+### Prerequisites
+
+1. **Java IDE:** Download and install IntelliJ IDEA from [here](https://www.jetbrains.com/idea/download/) (or use your preferred Java IDE).
+   
+2. **JavaFX SDK:** Download the JavaFX SDK from [OpenJFX](https://openjfx.io/) according to your operating system and Java version.
+
+### Setup Instructions
+
+1. **Clone the Repository:**
+   - Open IntelliJ IDEA.
+   - Go to `File` -> `New` -> `Project from Version Control` -> `Git`.
+   - Enter `https://github.com/theshamiksinha/StickHero-Game-JavaFX.git` as the Git repository URL and clone the project.
+
+2. **Configure JavaFX SDK:**
+   - Extract the downloaded JavaFX SDK to a preferred location on your computer.
+   - Open the cloned project in IntelliJ IDEA.
+   - Go to `File` -> `Project Structure` -> `Libraries`.
+   - Click on the `+` icon and select `Java`.
+   - Navigate to the `lib` folder of your extracted JavaFX SDK and add it as a library.
+
+3. **Run the Game:**
+   - In IntelliJ IDEA, open the `Main` class located in the project.
+   - Configure the run configuration to specify the `Main` class as the main class.
+   - Run the `Main` class to start playing Stick Hero!
+
 
 ### Contribution
 
