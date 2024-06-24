@@ -46,7 +46,7 @@ Watch a gameplay video to see Stick Hero in action:
     <a href="https://www.youtube.com/watch?v=5iBd60uciAk">
         <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/PlayButtonPNG.png" alt="Gameplay Video" width="100" style="margin-right: 10px;">
     </a>
-    <span>Watch gameplay video on YouTube</span>
+    <span> Press the button to watch a video of the gameplay on YouTube</span>
 </div>
 
 ## Game Mechanics
