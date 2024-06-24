@@ -26,7 +26,7 @@ Insert screenshots or gameplay images here to visually represent the game's inte
 
 Watch a gameplay video to see Stick Hero in action:
 
-[![Gameplay Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Gameplay Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=5iBd60uciAk)
 
 
 ## Game Mechanics
