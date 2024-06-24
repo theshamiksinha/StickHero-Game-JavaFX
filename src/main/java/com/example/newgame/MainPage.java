@@ -30,7 +30,6 @@ public class MainPage extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(MainPage.class.getResource("MainPage.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 800, 500);
 
-//
 //        Image image = new Image(Objects.requireNonNull(getClass().getResourceAsStream("/Images/redCursor.png")));
 //        scene.setCursor(new ImageCursor(image));
 
