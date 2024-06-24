@@ -1,7 +1,7 @@
 # Stick Hero Game
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/StickHeroCharacter.png" alt="StickHero Logo" width="200"/>
-  <span style="font-size: 7em; font-weight: bold; margin-left: 200px;">STICK HERO</span>
+  <span style="font-size: 7em; font-weight: bold; margin-left: 20px;">STICK HERO</span>
 </div>
 
 ## Introduction
