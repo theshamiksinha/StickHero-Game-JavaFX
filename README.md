@@ -12,6 +12,23 @@
 
 Welcome to Stick Hero, an exciting platformer game where you control Stick-Hero, navigating between pillars by extending a stick. Your objective is to collect cherries, reach the destination, and achieve the highest score possible. Embrace the challenge and enjoy the thrilling gameplay!
 
+## Gameplay Showcase
+
+### Images
+
+Insert screenshots or gameplay images here to visually represent the game's interface and action.
+
+![Gameplay Image 1](path/to/your/image1.png)
+![Gameplay Image 2](path/to/your/image2.png)
+![Gameplay Image 3](path/to/your/image3.png)
+
+### Video
+
+Watch a gameplay video to see Stick Hero in action:
+
+[![Gameplay Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+
+
 ## Game Mechanics
 
 1. **Stick-Hero Control:** Use keyboard input to stretch out a stick and bridge gaps between pillars.
