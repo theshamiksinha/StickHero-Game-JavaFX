@@ -1,5 +1,5 @@
 # Stick Hero Game
-![StickHero Logo](https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/StickHeroCharacter.png)
+<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/StickHeroCharacter.png" alt="StickHero Logo" width="200"/>
 
 ## Introduction
 
